@@ -6,6 +6,8 @@ The first major difference is in safety. BUSD is checked every month by Withum t
 
 USDT tokens are provided by offshore banks. BUSD stablecoins are backed by US banks, which adds a few BUSD reputation points. What does this mean? Because the US banks are FDIC insured and backed by credit and corporate bonds. So because of that in the BUSD Binance vs USDT battle exactly BUSD investors have more security guarantees.
 
+![BUSD and USDT](https://raw.githubusercontent.com/xttgod/xttgod.github.io/main/BUSD-USDT.jpg)
+
 ### Who uses USDT and who BUSD?
 - **USDT** is the more popular token because it supports more pairs. It is also easier to make trade transactions with Tethers. 
 - **BUSD** has smaller geography, but a better reputation and deeper functionality thanks to the Binance ecosystem.
