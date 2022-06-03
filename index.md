@@ -27,8 +27,9 @@ BUSD and USDT are crypto-stable currencies that act as a kind of bridge between 
 The coins BUSD and USDT are very important for the cryptocurrency market as they use smart contracts that run on blockchains. They replace classic contracts and do not require legal procedures to work. Stablecoins allow fast and relatively secure transfers around the world at any time. At the same time, users bypass the boring and complicated procedure of contacting banking institutions.
 
 ## What is Tether (USDT)
-
 So what is USDT or Tether and what place does it hold in the crypto world? Tether or USDT is a crypto stablecoin that is connected with Bitfinex and Tether Limited that runs on the Ethereum blockchain.  It helps to create digital money by using fiat money. Buyers are guaranteed that the assets will be valued in national currencies (Euro or USD).
+
+![Tether logo]([https://raw.githubusercontent.com/xttgod/xttgod.github.io/main/BUSD-USDT.jpg](https://raw.githubusercontent.com/xttgod/xttgod.github.io/main/tether-logo.jpg))
 
 ### History of USDT
 The token was released in 2015 by Tether Limited. Soon there were rumors that the company is associated with the crypto platform Bitfinex, which was the first to integrate this token into its service. This connection was later confirmed.
@@ -52,6 +53,8 @@ The USDT stablecoin runs on smart contracts. These contracts require compliance 
 
 ## What is BUSD
 We know that Binance exchange is one of the most popular crypto platforms. But what is BUSD and how is it connected with Binance? BUSD is a stablecoin created by the Binance exchange and connected with the USD at a 1:1. The crypto is deeply integrated into the Binance ecosystem. And it makes BUSD especially popular among crypto exchange users. The stablecoin is approved by the New York State Department of Financial Services (NYDFS).
+
+![BUSD]([https://raw.githubusercontent.com/xttgod/xttgod.github.io/main/BUSD-USDT.jpg](https://github.com/xttgod/xttgod.github.io/blob/main/academy-binance.jpg?raw=true))
 
 ### History of BUSD
 Binance USD (BUSD) was created in September 2019 by Binance and Paxos. The token is regularly checked to be sure that the ratio of reserves and issuance is indeed 1:1. BUSD gets a valuable role in Binance's marketing and developing campaigns.
@@ -79,6 +82,7 @@ If you value simplicity and convenience, then you should choose USDT. This stabl
 
 Also, USDT will become an important part of the portfolio of an experienced trader who trades little-known altcoins. But using USDT as a long-term asset for storing capital is not worth it due to problems with reporting and backing with real money.
 
+![Crypto]([https://raw.githubusercontent.com/xttgod/xttgod.github.io/main/BUSD-USDT.jpg](https://raw.githubusercontent.com/xttgod/xttgod.github.io/main/crypto-office.jpg))
 
 If the preservation of capital and its security is a priority for you, then it is better to choose BUSD. Your investment opportunities are greatly expanded if you trade on the Binance crypto exchange. In addition, BUSD offers better investor protection through lower risk and government regulation.
 
