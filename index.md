@@ -29,7 +29,7 @@ The coins BUSD and USDT are very important for the cryptocurrency market as they
 ## What is Tether (USDT)
 So what is USDT or Tether and what place does it hold in the crypto world? Tether or USDT is a crypto stablecoin that is connected with Bitfinex and Tether Limited that runs on the Ethereum blockchain.  It helps to create digital money by using fiat money. Buyers are guaranteed that the assets will be valued in national currencies (Euro or USD).
 
-![Tether logo]([https://raw.githubusercontent.com/xttgod/xttgod.github.io/main/BUSD-USDT.jpg](https://raw.githubusercontent.com/xttgod/xttgod.github.io/main/tether-logo.jpg))
+![Tetherlogo]([https://raw.githubusercontent.com/xttgod/xttgod.github.io/main/BUSD-USDT.jpg](https://raw.githubusercontent.com/xttgod/xttgod.github.io/main/tether-logo.jpg))
 
 ### History of USDT
 The token was released in 2015 by Tether Limited. Soon there were rumors that the company is associated with the crypto platform Bitfinex, which was the first to integrate this token into its service. This connection was later confirmed.
