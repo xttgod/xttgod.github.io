@@ -53,7 +53,7 @@ The USDT stablecoin runs on smart contracts. These contracts require compliance 
 ## What is BUSD
 We know that Binance exchange is one of the most popular crypto platforms. But what is BUSD and how is it connected with Binance? BUSD is a stablecoin created by the Binance exchange and connected with the USD at a 1:1. The crypto is deeply integrated into the Binance ecosystem. And it makes BUSD especially popular among crypto exchange users. The stablecoin is approved by the New York State Department of Financial Services (NYDFS).
 
-![BUSD](https://github.com/xttgod/xttgod.github.io/blob/main/academy-binance.jpg)
+![BUSD](https://raw.githubusercontent.com/xttgod/xttgod.github.io/main/academy-binance.jpg)
 
 ### History of BUSD
 Binance USD (BUSD) was created in September 2019 by Binance and Paxos. The token is regularly checked to be sure that the ratio of reserves and issuance is indeed 1:1. BUSD gets a valuable role in Binance's marketing and developing campaigns.
