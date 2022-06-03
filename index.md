@@ -87,26 +87,7 @@ If the preservation of capital and its security is a priority for you, then it i
 
 However, BUSD is a less popular stablecoin. You are unlikely to be able to use BUSD to trade an obscure altcoin or a relatively small DEX. BUSD is also not the best option for you if you prefer to have full control over your assets, without additional restrictions from government regulators.
 
-Kindly ask you to publish content from our author: Nina Petrov (editor-in-chief at [TradeCrypto.com](https://tradecrypto.com)) is a theoretical mathematician, passionate about new trends in the global economy and blockchain technology. She is a devoted content creator and editor, crypto-enthusiast and stock market analyst.
+**Author:** Nina Petrov (editor-in-chief at [TradeCrypto.com](https://tradecrypto.com)) is a theoretical mathematician, passionate about new trends in the global economy and blockchain technology. She is a devoted content creator and editor, crypto-enthusiast and stock market analyst.
 
 https://tradecrypto.com/author/nina-petrov/
 https://muckrack.com/nina-petrov-1 
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
